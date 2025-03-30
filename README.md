@@ -29,8 +29,10 @@
 5. Установка зависимостей
 
    ```pip3 install -r requirements.txt```
-6. Запуск 
-   ```jupyter nbconvert --execute <notebook>```
+
+6. Запуск файла
+
+   ```jupyter notebook --execute smartwatch.ipynb```
 <!--Поддержка-->
 ## Поддержка
 Если у вас возникли сложности или вопросы по использованию пакета, создайте 
