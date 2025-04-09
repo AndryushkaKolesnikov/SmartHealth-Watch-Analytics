@@ -46,8 +46,8 @@
 |-----------------------|-------------|
 | **numpy**             | 2.2.4       |
 | **pandas**            | 2.2.3       |
-| **python-dateutil**   | 2.9.0.post0 |
-| **ipykernel**         | 6.0.0       |
-| **pytz**              | 2025.2      |
-| **six**               | 1.17.0      |
-| **tzdata**            |  2025.2     |
+| **matplotlib**        | 3.10.1      |
+| **ipykernel**         | 6.29.5      |
+| **jupyter_client**    | 8.6.3       |
+| **jupyter_core**      | 5.7.2       |
+| **ipython**           | 9.0.2       |
