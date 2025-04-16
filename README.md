@@ -52,3 +52,4 @@
 | **jupyter_core**      | 5.7.2       |
 | **ipython**           | 9.0.2       |
 | **seaborn**           | 0.13.2      |
+| **scikit-learn**      | 1.6.1       | 
