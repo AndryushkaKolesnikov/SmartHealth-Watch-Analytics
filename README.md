@@ -53,3 +53,4 @@
 | **ipython**           | 9.0.2       |
 | **seaborn**           | 0.13.2      |
 | **scikit-learn**      | 1.6.1       | 
+| **catboost**          | 1.2.8       |
