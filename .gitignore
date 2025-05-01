@@ -2,3 +2,4 @@
 catboost_info/
 data/clean_smartwatch_health_data.csv
 data/my_model.h5
+data/my_model.cbm
