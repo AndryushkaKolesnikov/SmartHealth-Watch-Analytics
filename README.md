@@ -30,9 +30,17 @@
 
    ```pip3 install -r requirements.txt```
 
-6. Запуск файла
+6. Запуск файла для очистки датасета
 
-   ```jupyter notebook --execute smartwatch.ipynb```
+   ```python dataset_clean.py```
+
+7. Запуск файл для создания модели
+
+   ```python create_model.py```
+
+8. Запуск веб-приложения
+
+   ```python app.py```
 <!--Поддержка-->
 ## Поддержка
 Если у вас возникли сложности или вопросы по использованию пакета, создайте 
